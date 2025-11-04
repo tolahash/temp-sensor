@@ -1,5 +1,36 @@
+# Build artifacts
 *.o
+*.out
+*.so
+*.a
+*.lo
+*.la
+*.obj
+
+# Executables
 proxy
+temp_reader
+temp_logger
+temp_daemon
+
+# Logs and temp files
 *.log
+*.csv
 *.dat
-ass1.tgz
+*.tgz
+*.tmp
+
+# Dependency / build folders
+build/
+bin/
+obj/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+.vscode/
+.idea/
