@@ -15,7 +15,7 @@ temp_daemon
 
 # Logs and temp files
 *.log
-*.csv
+#*.csv
 *.dat
 *.tgz
 *.tmp
