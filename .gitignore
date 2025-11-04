@@ -1,0 +1,5 @@
+*.o
+proxy
+*.log
+*.dat
+ass1.tgz
